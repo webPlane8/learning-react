@@ -1,11 +1,13 @@
 .food_itm {
-  background-color: rgb(228, 255, 255);
+  background-color: rgb(255, 238, 238);
 }
 .span_itm {
   font-weight: 600;
   font-size: 1.5rem;
 }
 .food_heading {
-  background-color: aliceblue;
+  /* background-color: #ffeeee; */
   color: brown;
+  text-transform: uppercase;
+  text-underline-offset: ;
 }
